@@ -1,13 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Delius&family=Poetsen+One&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Delius&family=Poetsen+One&display=swap");
 
 body {
-  background-image: url("https://cdn.mos.cms.futurecdn.net/HuGGeENt6kGyixe3hT9tnY.jpg");
+  background-image: url(https://www.zmo.ai/wp-content/uploads/2023/09/aesthetic-minimal-cute-pastel-pink-wallpaper-illustration-perfect-for-wallpaper-backdrop-postcard-ba-scaled.jpg);
   text-align: center;
   margin: auto;
-   font-family: "Poetsen One", serif;
+  font-family: "Poetsen One", serif;
 }
 
-h1{
+h1 {
   font-size: 30px;
   color: white;
 }
@@ -15,8 +15,5 @@ h1{
 #myCanvas {
   background-size: 600px 400px;
   border-radius: 30px;
-  border: 5px solid white;
+  border: 5px solid pink;
 }
-
-
-
